@@ -6,7 +6,7 @@
 ## Integrantes
 - Adnilton Santos
 - Adriano Limeira
-- Nome do integrante 3
+- Vitor Silva
 - Nome do integrante 4
 
 ## Objetivo da Análise
