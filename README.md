@@ -5,7 +5,7 @@
 
 ## Integrantes
 - Adnilton Santos
-- Nome do integrante 2
+- Adriano Limeira
 - Nome do integrante 3
 - Nome do integrante 4
 
