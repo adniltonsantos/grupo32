@@ -8,7 +8,7 @@ O projeto tem como tema a análise comparativa da COVID-19 entre países. Buscan
 - Adriano Limeira
 - Vitor Silva
 - Matheus Rocha
-
+- Gabriela Astoni 
 ## Objetivo da Análise
 O objetivo principal do projeto é analisar e comparar o impacto da COVID-19 entre diferentes países, com foco na identificação de padrões, avaliar a posição do Brasil em relação a outros países, identificar países com maior e menor impacto da pandemia, analisar indicadores de eficiência (recuperação vs mortalidade), explorar diferenças entre regiões globais (OMS) e detectar países com crescimento acelerado de casos.
 
