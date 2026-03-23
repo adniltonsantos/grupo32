@@ -1,7 +1,7 @@
 # Projeto Grupo 32 - SENAC
 
 ## Tema do Projeto
-O projeto tem como tema a análise comparativa da COVID-19 entre países. Buscando destacar a posição do Brasil em relação ao cenário internacional, avaliando indicadores de impacto, recuperação e crescimento da pandemia.
+O projeto tem como tema a análise comparativa da COVID-19 entre países. Buscando destacar a posição do Brasil em relação ao cenário internacional, avaliando indicadores de impacto, recuperação e crescimento da pandemia. Link do banco https://www.kaggle.com/datasets/imdevskp/corona-virus-report?resource=download
 
 ## Integrantes
 - Adnilton Santos
